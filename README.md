@@ -19,7 +19,3 @@ Stores info on accounts currently in the ATM, in the following format:
 
 #### alerts.txt
 (add)
-
-to be continued...
-# SimulationATM
-# SimulationATM
