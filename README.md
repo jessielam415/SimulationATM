@@ -4,7 +4,7 @@
    - To log in as a Bank Manager, enter **bm** as the username, **123** for the password, and then press Bank Login
    - To log in as a Bank Advisor, enter **ba1** as the username, **123** for the password, and then press Bank Login 
    - To log in as a customer, create a new customer using a Bank Manager
-3. One of the functionalities of this ATM is depositing money into a user's bank account. To store information regarding deposits, we use a file called **deposits.txt**. This file needs to be manually created. In the **files** folder, please create a new text file called **deposits.txt**. See the **Files** section of this README to see how to format information stored in deposits.txt.
+3. One of the functionalities of this ATM is depositing money into a user's bank account. To store information regarding deposits, we use a file called **deposits.txt**. This file needs to be manually created. In the **files** folder, please create a new text file called **deposits.txt**. 
 
 ## Formats of Text Files
 Our ATM program reads and writes to text files to store its data. All these text files are stored in the **files** folder.
