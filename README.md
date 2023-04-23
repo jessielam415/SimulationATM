@@ -8,14 +8,3 @@
 
 ## Formats of Text Files
 Our ATM program reads and writes to text files to store its data. All these text files are stored in the **files** folder.
-
-#### accountRequest.txt
-Stores info on new accounts that have been requested, in the following format:
-(add)
-
-#### accounts.txt
-Stores info on accounts currently in the ATM, in the following format:
-(add)
-
-#### alerts.txt
-(add)
